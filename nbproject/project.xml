@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>Practica1Recursivo</name>
+=======
+            <name>MCD_recursivo</name>
+>>>>>>> 4b7a26d1a0ae576386fb89fddf960133c7c1e851
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
